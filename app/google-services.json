@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770513751971",
+    "firebase_url": "https://kotlinnofitications.firebaseio.com",
+    "project_id": "kotlinnofitications",
+    "storage_bucket": "kotlinnofitications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770513751971:android:629b84357dbb33ac069416",
+        "android_client_info": {
+          "package_name": "com.example.android.eggtimernotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770513751971-23fnrrvdi5210qgq8d7jhvbsbmo3ghl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX2PZ6bLtRnCICWSd_aUpnC2MI61ehFXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770513751971-23fnrrvdi5210qgq8d7jhvbsbmo3ghl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
